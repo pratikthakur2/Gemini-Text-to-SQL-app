@@ -1,2 +1,1 @@
-# Gemini Text to SQL app
- This Streamlit application utilizes the Google Gemini model to generate SQL queries based on user-provided questions. Users can input their questions about a hypothetical SQL database containing student records, and the app generates corresponding SQL queries. Upon submitting a question, the app retrieves data from an SQLite database using the generated SQL query and displays the results. The interface is simple and intuitive, making it easy for users to interact with the SQL database without needing prior knowledge of SQL syntax.
+# text-to-sql
